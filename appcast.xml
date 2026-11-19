@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Live LUT</title>
+    <link>https://raw.githubusercontent.com/composrr/live-lut-releases/main/appcast.xml</link>
+    <description>Live LUT updates</description>
+    <language>en</language>
+    <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Thu, 19 Nov 2026 03:53:51 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.1.0</h2>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.1.0/Live-LUT-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="4ga46Vhc9TiIUm4oxMRNwKbMmGoO6QlIKHV5A0Ilho2VScBmXSrMJWj753ROCrgttiBdi0YGQlTSXsw8F9HfDA==" length="2403425" />
+    </item>
+  </channel>
+</rss>
