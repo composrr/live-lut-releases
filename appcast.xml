@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Mon, 23 Nov 2026 01:59:30 +0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.1.3</h2>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.1.3/Live-LUT-0.1.3.dmg" type="application/octet-stream" sparkle:edSignature="lATsiNC57BLKZ73igtrbKE12m4Oe8D0o7sZAPobC8tc65MamyFdw4JItkUgwtSCGNkVeSIDQO7udxisQbtbzCg==" length="3600726" />
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Thu, 19 Nov 2026 17:46:55 +0000</pubDate>
       <sparkle:version>36</sparkle:version>
