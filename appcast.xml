@@ -7,6 +7,20 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Thu, 26 Nov 2026 02:16:50 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.0</h2><p>New look: dark, minimal, bigger pictures.</p>
+<p>Setup layouts: 2×2, one big + three, single camera, side by side (toolbar or ⌥⌘1–4). Click a picture to select it, double-click to show it alone.</p>
+<p>Camera control for the four Blackmagic cameras: iris, ISO, shutter, white balance, tint, focus and AF, copy settings to other cameras. Set the camera addresses in Settings › Cameras (macOS asks for Local Network access the first time).</p>
+<p>False color, zebras and focus peaking per camera, in Live LUT's window only (never on the TVs or Zoom).</p>
+<p>New Program screen with big switcher keys, and a restyled menu bar.</p>
+<p>Camera power is not active yet: it needs a network power strip.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.0/Live-LUT-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="kuVU/Y/RKnh5OUZB1Q5ygX90aaKdM8mtipYKsHcT5F4MwxWADFQ9e5t+rMBiipdJiu2jQHmsIag6WrMrCA99BA==" length="4074428" />
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <pubDate>Thu, 26 Nov 2026 01:32:05 +0000</pubDate>
       <sparkle:version>49</sparkle:version>
