@@ -7,6 +7,24 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Thu, 26 Nov 2026 02:36:48 +0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.1</h2><p>Fixed: changing the shutter could nearly close it (unit mix-up), making the picture very dark.</p>
+<p>Iris now works in real f-stops: the number updates instantly and is checked against the camera.</p>
+<p>Double-click any camera value to put it back to where it was when Live LUT connected; Reset all does them all.</p>
+<p>Click the big value to type a number (e.g. 5600 for white balance).</p>
+<p>Click-to-focus: press the target icon on the picture's bar, then click where to focus.</p>
+<p>Copy to other cameras now shows a tick or a warning per camera.</p>
+<p>"Follow Movie Recorder" is now a labelled switch.</p>
+<p>Program "no signal" shows a checklist of what to check.</p>
+<p>Settings › Studio: every hub port, camera input, recording output and TV can be changed.</p>
+<p>Settings › Cameras: Identify (colour bars for 3 s) and Swap, for when a camera's picture and control are crossed.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.1/Live-LUT-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="wUHK/FJY2jydOsNrYDGvUC+QoD81TeVU4ko73LMNgtOLiWZyLs3FcQMliTbPmBjJf+7oCXsYwAIYSSfDI3GPBw==" length="4172349" />
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Thu, 26 Nov 2026 02:16:50 +0000</pubDate>
       <sparkle:version>55</sparkle:version>
