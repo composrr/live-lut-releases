@@ -7,6 +7,22 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.6</title>
+      <pubDate>Thu, 26 Nov 2026 03:55:54 +0000</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.6</h2><p>Scopes are sharp and live: drawn on the GPU at full frame rate and Retina resolution.</p>
+<p>False color key: while false color is on, a key under the toolbar shows what each colour means and its range.</p>
+<p>Right-click a picture for a ring of quick actions: Focus here, Magnify 2× here, False color, Focus peaking, Scopes, Show only this camera.</p>
+<p>Picture bar is grouped: LUT|LOG · exposure · focus · frame · solo.</p>
+<p>Program: "Tools on TVs" is now a labelled switch (on the picture and in the TVs section). Frame guides, including 9:16, now show on the TVs too. Zoom stays clean.</p>
+<p>Camera panel tidied: Manual/Auto sits in the camera header; Reset all sits next to the range.</p>
+<p>Swap picture and control moved to Settings › Cameras › Swap.</p>
+<p>Stream Deck / Companion: the Program control API is complete and documented.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.6/Live-LUT-0.3.6.dmg" type="application/octet-stream" sparkle:edSignature="irxBPCAGy/Y6gzeeSizifXGnZy2yfQ05dO7PHZscHPKi5F2bMva/nAdGxO9OBsg9x5TD52yNN0Z+Z/KKaxnxCw==" length="4328177" />
+    </item>
+    <item>
       <title>Version 0.3.5</title>
       <pubDate>Thu, 26 Nov 2026 03:38:22 +0000</pubDate>
       <sparkle:version>71</sparkle:version>
