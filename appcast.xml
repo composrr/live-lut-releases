@@ -7,6 +7,17 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.7</title>
+      <pubDate>Thu, 26 Nov 2026 04:09:16 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.7</h2><p>Settings › Cameras is one table: for each camera set its name (tile and Zoom), which input it shows, and which camera it controls (IP or hostname). Picking an input another camera uses swaps the two.</p>
+<p>Match pictures to cameras: one click puts colour bars on each camera in turn and puts every picture on the tile that controls it (Setup mode, Movie Recorder closed).</p>
+<p>Program: switching cameras no longer flashes the setup checklist in the window.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.7/Live-LUT-0.3.7.dmg" type="application/octet-stream" sparkle:edSignature="HgP1jiHs8l0tHmO/Zypgw93G/hFvGTE0A5F5yeEeTRGQ7QqAmsCc0kU3Z3dVpFee9E3uvbaarBfK+vdR/ezRDg==" length="4359008" />
+    </item>
+    <item>
       <title>Version 0.3.6</title>
       <pubDate>Thu, 26 Nov 2026 03:55:54 +0000</pubDate>
       <sparkle:version>78</sparkle:version>
