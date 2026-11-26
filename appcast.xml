@@ -7,6 +7,22 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.4</title>
+      <pubDate>Thu, 26 Nov 2026 03:15:06 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.4</h2><p>Program screen: the TV button (and "Also on the SDI output" under Picture tools) puts false color, focus peaking and zebras on the TVs too, like a field monitor. Zoom never gets them, a red TOOLS ON SDI OUT tag shows while it is on, and it is off again every time Live LUT starts.</p>
+<p></p>
+<p>Tint: double-click (or Reset all) now sets tint to neutral 0 on every camera.</p>
+<p>Mode: Auto | Setup | Program. Auto follows Movie Recorder and shows which mode it's in.</p>
+<p>Scopes on each picture (waveform, RGB parade, vectorscope, histogram) from the picture's bar.</p>
+<p>Frame guides from the picture's bar: aspect ratios (16:9, 4:3, 1:1, 4:5, 9:16, 1.85, 2.35, 2.39), centre cross, thirds, safe areas.</p>
+<p>False color "Simple": good exposure stays grey, yellow = too bright, red = clipped, blue/purple = too dark ("Zones" still available).</p>
+<p>Exposure match: all four cameras side by side with how many stops each is off, Match / Match all buttons, and Link to adjust all cameras together (not focus).</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.4/Live-LUT-0.3.4.dmg" type="application/octet-stream" sparkle:edSignature="zHwnoIbEX6zzBwaYc6C6oW4Hc/DXRAquuicm/4AT7dWrCDivPT+kdi+dbng07NIvKNRd53Y9y8df/SXPv5SMAw==" length="4264022" />
+    </item>
+    <item>
       <title>Version 0.3.3</title>
       <pubDate>Thu, 26 Nov 2026 02:53:58 +0000</pubDate>
       <sparkle:version>61</sparkle:version>
