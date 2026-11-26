@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.3</title>
+      <pubDate>Thu, 26 Nov 2026 02:53:58 +0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.3</h2><p>Fixed: the program SDI output could never open ("No DeckLink output"), and Settings › Studio › Program output listed no connectors. Every DeckLink connector that can play out is now listed.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.3/Live-LUT-0.3.3.dmg" type="application/octet-stream" sparkle:edSignature="i3cBVEJ0prOJkb7Y5EU4j7hgCzj+/UkDia0eJcG9Ix9fAXlxqDcokVh4bek5ueqXnn4xnDPms7BnkWhMwfh7BA==" length="4217386" />
+    </item>
+    <item>
       <title>Version 0.3.2</title>
       <pubDate>Thu, 26 Nov 2026 02:46:17 +0000</pubDate>
       <sparkle:version>59</sparkle:version>
