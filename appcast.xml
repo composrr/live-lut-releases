@@ -7,6 +7,21 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.5</title>
+      <pubDate>Thu, 26 Nov 2026 03:38:22 +0000</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.5</h2><p>Fixed: turning on focus peaking, zebras or false color no longer changes the picture's brightness.</p>
+<p>False color now uses the standard camera scale (Blackmagic / ARRI): purple crushed, blue near black, green 18% grey, pink skin, yellow near clipping, red clipped. "Simple" is still an option in Overlays.</p>
+<p>Scopes and frame guides open the same compact panel; aspect ratio is a small dropdown.</p>
+<p>Save Diagnostics now asks each camera what it can be controlled for (tally, power), so we can check it.</p>
+<p>If two cameras show on the wrong tiles, right-click a picture and choose Swap with… to move the picture and the camera control together.</p>
+<p>Exposure match: pin a camera as the reference; it stays the reference while you select other cameras.</p>
+<p>Top toolbar: false color, focus peaking and zebras on all cameras with one click (⌥⌘F / ⌥⌘P / ⌥⌘Z).</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.5/Live-LUT-0.3.5.dmg" type="application/octet-stream" sparkle:edSignature="PSX973p9Nj4wICrT0KxXTF5yeGJruyYJcsNl4YAu0yDM9IzmC5O/nZx7puNpcrWDCnAsWY9qk5F6UULEFNy7BA==" length="4284245" />
+    </item>
+    <item>
       <title>Version 0.3.4</title>
       <pubDate>Thu, 26 Nov 2026 03:15:06 +0000</pubDate>
       <sparkle:version>66</sparkle:version>
