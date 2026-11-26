@@ -7,6 +7,19 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.2</title>
+      <pubDate>Thu, 26 Nov 2026 02:46:17 +0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.2</h2><p>Magnify 2× / 4× on every camera and the program picture (button on the picture's bar; drag to move around).</p>
+<p>Scopes under the camera controls: waveform, RGB parade and histogram, with clipped and crushed percentages.</p>
+<p>Picture tools with full names: false color, focus peaking, zebras.</p>
+<p>Tint now reads 0 at neutral, minus toward green and plus toward magenta, with a Neutral (0) button.</p>
+<p>"Auto Switch" replaces "Follow Movie Recorder".</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.2/Live-LUT-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="BspHEpEbRvMXhSYFWB8Mb9Fsg3FT4D70dwu82kgbPeJO2vn8pSU63kPfHDQcSVf5GXf2INQVMdKhmbOrx6bcAg==" length="4215316" />
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Thu, 26 Nov 2026 02:36:48 +0000</pubDate>
       <sparkle:version>57</sparkle:version>
