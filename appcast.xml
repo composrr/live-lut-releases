@@ -7,6 +7,19 @@
     <language>en</language>
     <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
     <item>
+      <title>Version 0.3.8</title>
+      <pubDate>Sat, 28 Nov 2026 04:34:44 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live LUT 0.3.8</h2><p>Live LUT 0.3.8</p>
+<p></p>
+<p>- New ALL group in the Setup toolbar: one LUT | LOG switch for all cameras (⌥⌘L).</p>
+<p>- Set one conversion LUT on every camera from the toolbar.</p>
+<p>- Legal | Full range for all cameras in the same dropdown.</p>]]></description>
+      <enclosure url="https://github.com/composrr/live-lut-releases/releases/download/v0.3.8/Live-LUT-0.3.8.dmg" type="application/octet-stream" sparkle:edSignature="+IXaUxB71PQl/cVlYWy2PgV0RTVDnG2YVQd7FMU2n4mbqcJjBWxlMUFkyEJy1bhYBJy2d9AHdObzcSQdN/DmDg==" length="4398861" />
+    </item>
+    <item>
       <title>Version 0.3.7</title>
       <pubDate>Thu, 26 Nov 2026 04:09:16 +0000</pubDate>
       <sparkle:version>82</sparkle:version>
